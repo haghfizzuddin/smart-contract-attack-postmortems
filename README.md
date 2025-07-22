@@ -16,6 +16,8 @@ This repository serves as a learning reference for security researchers, auditor
 | Year | Incident | Estimated Loss | Root Cause |
 |----------|-------------|-------------------|-----------------------------|
 | 2025 | [Cetus Protocol Overflow Exploit](./audits/Cetus-Overflow-Exploit-2025.md) | $223 Million | Integer Overflow in Liquidity Logic |
+| 2023 | [Euler Flashloan Exploit](./audits/Euler-Flashloan-Exploit-2023.md) | $197 Million | Flashloan Self-Liquidation Abuse |
+
 
 ---
 
